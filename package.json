@@ -1,0 +1,14 @@
+{
+  "name": "ts-framework",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/garorueda99/ts-framework.git",
+  "author": "Andres Rueda <garo99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
